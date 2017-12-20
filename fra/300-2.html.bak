@@ -8,7 +8,7 @@
 #img300{display:block;}
 #img728{display:none;}
 }
-@media only screen and (min-width: 337px){
+@media only screen and (min-width: 336px){
 #img300{display:none;}
 #img728{display:block;}
 }
